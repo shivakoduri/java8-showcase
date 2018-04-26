@@ -12,6 +12,7 @@
 		<module>java8consumers</module>
         <module>java8-default-methods</module>
         <module>java8-functional-interface</module>
+        <module>java8-functions</module>
     </modules>
 	<packaging>pom</packaging>
     <name>Java8 Show Case</name>
