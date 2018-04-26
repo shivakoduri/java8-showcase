@@ -7,9 +7,12 @@
     <artifactId>java8-showcase</artifactId>
     <version>1.0-SNAPSHOT</version>
 	<modules>
+		<module>java8-common-module</module>
 		<module>java8comparators</module>
 		<module>java8consumers</module>
-	</modules>
+        <module>java8-default-methods</module>
+        <module>java8-functional-interface</module>
+    </modules>
 	<packaging>pom</packaging>
     <name>Java8 Show Case</name>
 

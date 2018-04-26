@@ -10,12 +10,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.myprojects.examples.java8.java8-showcase</groupId>
-    <artifactId>java8-consumers</artifactId>
+    <artifactId>java8-functional-interface</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Java8 Consumers</name>
-    <description>Java 8 Consumers Examples</description>
+    <name>Java8 Functional Interface</name>
+    <description>Java 8 Functional Interfaces Examples</description>
 
     <dependencies>
         <!-- TESTING DEPENDENCIES -->
@@ -30,5 +30,12 @@
             <scope>test</scope>
         </dependency>
         <!-- TESTING DEPENDENCIES -->
+
+        <dependency>
+            <groupId>com.myprojects.examples.java8.java8-showcase</groupId>
+            <artifactId>java8-common-module</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
+
 </project>
