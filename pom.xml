@@ -17,6 +17,7 @@
 		<module>java8-predicates</module>
 		<module>java8-stream-count</module>
 		<module>java8-stream-filter</module>
+		<module>java8-stream-map</module>
 	</modules>
 	<packaging>pom</packaging>
     <name>Java8 Show Case</name>
