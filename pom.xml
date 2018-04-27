@@ -14,6 +14,7 @@
         <module>java8-functional-interface</module>
         <module>java8-functions</module>
 		<module>java8-lambda-expression</module>
+		<module>java8-predicates</module>
 	</modules>
 	<packaging>pom</packaging>
     <name>Java8 Show Case</name>
