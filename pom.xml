@@ -16,6 +16,7 @@
 		<module>java8-lambda-expression</module>
 		<module>java8-predicates</module>
 		<module>java8-stream-count</module>
+		<module>java8-stream-filter</module>
 	</modules>
 	<packaging>pom</packaging>
     <name>Java8 Show Case</name>
